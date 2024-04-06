@@ -7,7 +7,7 @@ Welcome to the Seed Labs repository! This repository contains a collection of ha
 
 Here is a list of labs included in this repository:
 
-1. [Dirty Cow Attack Lab](Dirty%20cow%20attack%20Lab/)
+1. [Dirty Cow Attack Lab](Seed%20Labs/Dirty%20cow%20attack%20Lab/)
 2. [Environment Variable and Set-UID Program Lab](Environment%20Variable%20and%20Set-UID%20Program%20Lab/)
 3. [ICMP Redirect Attack Lab](ICMP%20redirect%20attack%20Lab/)
 4. [Mitnick Attack Lab](Mitnick%20Attack%20Lab/)
