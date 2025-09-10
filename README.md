@@ -8,7 +8,7 @@ Here is a list of labs included in this repository:
 
 1. [Dirty Cow Attack Lab](Seed%20Labs/Dirty%20cow%20attack%20Lab/)
 2. [Environment Variable and Set-UID Program Lab](Seed%20Labs/Environment%20Variable%20and%20Set-UID%20Program%20Lab/)
-3. [ICMP Redirect Attack Lab](Seed%20Labs/ICMP%20redirect%20attack%20Lab/)
+3. [ICMP Redirect Attack Lab](Seed%20Labs/ICMP%20rediect%20attack%20Lab/)
 4. [Mitnick Attack Lab](Seed%20Labs/Mitnick%20Attack%20Lab/)
 5. [Packet Sniffing and Spoofing Lab](Seed%20Labs/Packet-Sniffing-and-Spoofing%20Lab/)
 6. [RSA Lab](Seed%20Labs/RSA%20Lab/)
